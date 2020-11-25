@@ -2,7 +2,6 @@ import { useEffect, useState } from "react"
 import axios from "axios"
 
 import BirthdayCard from "../components/BirthdayCard"
-import AddBirthday from "../components/AddBirthday"
 
 const BASE_PATH = process.env.REACT_APP_API_URL
 
