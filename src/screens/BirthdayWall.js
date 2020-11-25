@@ -30,8 +30,6 @@ const BirthdayWalls = () => {
           </div>
         )
       })}
-
-      <AddBirthday addBirthday={addBirthday}/>
     </div>
   )
 }
